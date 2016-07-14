@@ -1,4 +1,6 @@
 bread
+lactaid
 milk
-eggs
+egg
 sour cream
+bacon
